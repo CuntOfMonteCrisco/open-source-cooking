@@ -1,3 +1,5 @@
+![paleo nachos](./DSC_0108-02.jpeg)
+
 | ingredients | quantity
 | --- | --- |
 | plantains | 2 whole plantains |
